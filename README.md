@@ -3,6 +3,7 @@
 A reaction time test game built in C with [raylib](https://www.raylib.com/). Wait for the red circle, then press the UP arrow as fast as you can. The game measures your reaction time in milliseconds.
 
 ![Gameplay screenshot](screenshot.png)
+![Gameplay screenshot](screenshot2.png)
 
 ## About this project
 
