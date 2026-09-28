@@ -54,8 +54,8 @@ Inside you should see an `include` folder and a `lib` folder. You will need both
 ### 3. Get the code
 
 ```powershell
-git clone https://github.com/Loyalty10K/reflex-game.git
-cd reflex-game
+git clone https://github.com/Loyalty10K/ReflexGame.git
+cd ReflexGame
 ```
 
 Or click **Code > Download ZIP** on this page and unzip it.
